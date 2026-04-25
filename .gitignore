@@ -6,3 +6,5 @@ venv/
 env/
 data/hotel_train.csv
 data/hotel_test.csv
+
+notebooks/catboost_info/
